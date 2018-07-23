@@ -1,4 +1,4 @@
-#Automated Perceptual Maps for Brands with Social Media Data
+  ##Automated Perceptual Maps for Brands with Social Media Data
 
 Imagine if you were a major brand like Marvel's Avengers and are doing market perception fresearch on what differentiates your brand of superhero movies from those of a competitor, like DC Comics. Where would you start? 
 
